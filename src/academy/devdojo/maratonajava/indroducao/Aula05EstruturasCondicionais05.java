@@ -1,4 +1,4 @@
 package academy.devdojo.maratonajava.indroducao;
 
-public class Aula5EstruturasCondicionais04e05 {
+public class Aula05EstruturasCondicionais05 {
 }
